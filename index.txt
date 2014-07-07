@@ -12,6 +12,7 @@ www-uw                  http://www.uw.edu.pl/
 
 www-postdoc             http://www.igf.fuw.edu.pl/igf/?option=com_news&Itemid=55&func=view&news=10000301&lang=pl
 
+www-group               http://foss.igf.fuw.edu.pl/
 www-hania               http://www.igf.fuw.edu.pl/igf/index.php?option=com_employees&Itemid=98&lang=en&func=view&employee=38
 www-piotr               http://old.ecmwf.int/staff/piotr_smolarkiewicz/
 www-ania                http://www.igf.fuw.edu.pl/igf/?option=com_employees&Itemid=98&lang=en&func=view&employee=10000012

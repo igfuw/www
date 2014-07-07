@@ -35,7 +35,7 @@ Documentation for libcloudph++ is available as an
 ## CREDITS
 
 Libmpdata++ code has been developed by [Sylwester Arabas][www-slayoo] and
-  [Anna Jaruga][www-ania] working in the research group of 
+  [Anna Jaruga][www-ania] working in the [research group][www-group] of 
   [Hanna Pawlowska][www-hania] in co-operation with [Wojciech Grabowski][www-wojtek].
 
 Development was funded by [Polish National Science Centre][www-ncn]

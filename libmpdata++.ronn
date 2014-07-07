@@ -37,7 +37,7 @@ Some first design choices of libmpdata++ have been discussed in
 
 Libmpdata++ code has been developed by [Sylwester Arabas][www-slayoo], 
   [Anna Jaruga][www-ania], [Maciej Waruszewski][www-maciek]
-  and [Dorota Jarecka][www-dorota] working in the research group of 
+  and [Dorota Jarecka][www-dorota] working in the [research group][www-group] of 
   [Hanna Pawlowska][www-hania] in co-operation with [Piotr Smolarkiewicz][www-piotr].
 
 Development was funded by [Polish National Science Centre][www-ncn]
