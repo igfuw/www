@@ -5,6 +5,10 @@ www-thrust              http://thrust.github.io/
 
 www-gpl                 http://www.gnu.org/licenses/gpl.html
 www-ncn                 http://ncn.gov.pl/?language=en
+www-ncar-mmm            http://www.mmm.ucar.edu/
+www-ecmwf               http://www.ecmwf.int/
+www-fuw                 http://www.fuw.edu.pl/
+www-uw                  http://www.uw.edu.pl/
 
 www-postdoc             http://www.igf.fuw.edu.pl/igf/?option=com_news&Itemid=55&func=view&news=10000301&lang=pl
 

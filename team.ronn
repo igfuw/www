@@ -1,9 +1,18 @@
-Cloud-modelling software-development team @ University of Warsaw
-=================================================================
+Cloud/aerosol-modelling software team @ University of Warsaw
+============================================================
 
-We aim at developing tools for studying aerosol-cloud
-  interactions using **novel cloud/aerosol microphysics** models 
+Our team is a part of Atmospheric Physics Division at the
+  [Faculty of Physics][www-fuw], [University of Warsaw][www-uw].
+Our key ongoing enddeavour is a [Polish National Science Centre][www-ncn]
+  funded project entitled **"Aerosol processing by clouds - development 
+  of a multifaceted object-oriented numerical simulation framework"**. 
+The project is carried out together with collaborators from 
+  [NCAR-MMM][www-ncar-mmm] and [ECMWF][www-ecmwf].
+
+We aim at developing tools for studying **aerosol-cloud
+  interactions** using **novel cloud/aerosol microphysics** models 
   and **state-of-the-art numerical schemes**.
+
 We carry out the software development in compliance with **free 
   and open source** software engineering practices employing 
   **modern coding techniques**, aiming at researchers' 
@@ -12,12 +21,12 @@ We carry out the software development in compliance with **free
 ## NEWS
 
 * current: **[OPEN POST-DOC POSITION][www-postdoc]**
-* 2014-07: Ania's poster at the [AMS Cloud Physics conference][news-201407-ams-www] in Boston
+* 2014-07: Ania's poster at the [AMS Cloud Physics conf.][news-201407-ams-www] in Boston
 * 2014-07: [arXiv e-print on libmpdata++][axv-libmpdata]
-* 2014-04: [Dorota's talk][news-201404-sea-talk] at the [UCAR Software Engineering conference][news-201404-sea-talk] in Boulder
+* 2014-04: [Dorota's talk][news-201404-sea-talk] at the [UCAR Software Engineering conf.][news-201404-sea-talk] in Boulder
 * 2014-03: [peer-reviewed paper in Scientific Programming][doi-mpdata-oop]
 * 2013-10: [arXiv w-print on libcloudph++][axv-libcloudph]
-* 2013-01: [Polish National Science Centre][www-ncn] 300 kUSD ''HARMONIA'' [project granted!!!][news-201301-harmonia]
+* 2013-01: [Polish National Science Centre][www-ncn] 300k$ ''HARMONIA'' [project granted!][news-201301-harmonia]
 
 ## TEAM
 
@@ -30,7 +39,7 @@ We carry out the software development in compliance with **free
   * [prof. Wojciech Grabowski @ NCAR][www-wojtek]
   * [Dorota Jarecka @ NCAR][www-dorota]
 
-## PROJECTS (WIP!)
+## PROJECTS (WORK IN PROGRESS!)
 
 * [libmpdata++][www-libmpdata]
 * [libcloudph++][www-libcloudph]
