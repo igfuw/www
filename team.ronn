@@ -25,7 +25,7 @@ We carry out the software development in compliance with **free
 * 2014-07: [arXiv e-print on libmpdata++][axv-libmpdata]
 * 2014-04: [Dorota's talk][news-201404-sea-talk] at the [UCAR Software Engineering conf.][news-201404-sea-talk] in Boulder
 * 2014-03: [peer-reviewed paper in Scientific Programming][doi-mpdata-oop]
-* 2013-10: [arXiv w-print on libcloudph++][axv-libcloudph]
+* 2013-10: [arXiv e-print on libcloudph++][axv-libcloudph]
 * 2013-01: [Polish National Science Centre][www-ncn] 300k$ ''HARMONIA'' [project granted!][news-201301-harmonia]
 
 ## TEAM
