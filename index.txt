@@ -1,0 +1,35 @@
+www-blitz               http://sf.net/p/blitz/
+www-boost               http://boost.org/
+www-hdf5                http://www.hdfgroup.org/HDF5/
+www-thrust              http://thrust.github.io/
+
+www-gpl                 http://www.gnu.org/licenses/gpl.html
+www-ncn                 http://ncn.gov.pl/?language=en
+
+www-postdoc             http://www.igf.fuw.edu.pl/igf/?option=com_news&Itemid=55&func=view&news=10000301&lang=pl
+
+www-hania               http://www.igf.fuw.edu.pl/igf/index.php?option=com_employees&Itemid=98&lang=en&func=view&employee=38
+www-piotr               http://old.ecmwf.int/staff/piotr_smolarkiewicz/
+www-ania                http://www.igf.fuw.edu.pl/igf/?option=com_employees&Itemid=98&lang=en&func=view&employee=10000012
+www-slayoo              http://www.igf.fuw.edu.pl/~slayoo/
+www-maciek              http://www.igf.fuw.edu.pl/igf/?option=com_employees&Itemid=98&lang=en&func=view&employee=10000026
+www-dorota              http://www.igf.fuw.edu.pl/igf/?option=com_employees&Itemid=98&lang=en&func=view&employee=74
+www-wojtek              http://www2.mmm.ucar.edu/people/grabowski/
+
+www-libcloudph          http://libcloudphxx.igf.fuw.edu.pl/
+www-libmpdata           http://libmpdataxx.igf.fuw.edu.pl/
+
+git-libmpdata           http://github.com/igfuw/libmpdataxx
+git-libcloudph          http://github.com/igfuw/libcloudphxx
+
+doi-mpdata-oop          http://dx.doi.org/10.3233/SPR-140379
+
+axv-libmpdata           http://arxiv.org/abs/1407.1309
+axv-libcloudph          http://arxiv.org/abs/1310.1905
+
+news-201404-sea-talk    https://sea.ucar.edu/sites/default/files/talk_web.pdf
+news-201404-sea-www     https://sea.ucar.edu/conference/2014
+
+news-201407-ams-www     https://www.ametsoc.org/meet/fainst/201414cloudphy.html
+
+news-201301-harmonia    http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CBwQFjAA&url=http%3A%2F%2Fwww.igf.fuw.edu.pl%2Fzfa%2Findex.php%3FItemid%3D88%26option%3Dcom_news%26func%3Dview%26news%3D10000258%26lang%3Den&ei=LYO6U-W8NOfX0QXJ8IBA&usg=AFQjCNFRyspwnD5sZe48H7GneKf8sJsiMA&bvm=bv.70138588,d.d2k

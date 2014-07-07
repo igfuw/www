@@ -1,0 +1,42 @@
+libcloudph++
+=============
+
+## SYNOPSIS
+
+C++ library of algorithms for representing cloud microphysics in numerical models. 
+As of April 2014 it is in active development with a beta release planned for ca. 2015.
+
+Version 0.1 of the library covers three warm-rain schemes: the single- 
+and double-moment bulk schemes, and the particle-based scheme with Monte-Carlo coalescence.
+
+## CODE
+
+The code is available for download from [a github repository][git-libcloudph]. 
+
+It is released under the terms of [GNU GPL v3][www-gpl]. 
+
+Copyright: University of Warsaw.
+
+## DEPENDENCIES
+
+The library is built upon [Thrust][www-thrust] and [Boost][www-boost] (notably Boost.units). 
+It requires a C++11 compiler and will benefit from availability of CUDA 
+(OpenMP is used if CUDA is not available).
+
+## DOCUMENTATION
+
+Documentation for libcloudph++ is available as an 
+  [arXiv e-print 1310.1905][axv-libcloudph].
+
+## SEE ALSO
+
+[libmpdata++][www-libmpdata]
+
+## CREDITS
+
+Libmpdata++ code has been developed by [Sylwester Arabas][www-slayoo] and
+  [Anna Jaruga][www-ania] working in the research group of 
+  [Hanna Pawlowska][www-hania] in co-operation with [Wojciech Grabowski][www-wojtek].
+
+Development was funded by [Polish National Science Centre][www-ncn]
+  grants no. 2011/01/N/ST10/0183 (PRELUDIUM) and 2012/06/M/ST10/00434 (HARMONIA).

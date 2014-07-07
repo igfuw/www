@@ -1,0 +1,44 @@
+libmpdata++
+===========
+
+## SYNOPSIS
+
+A library of parallel forward-in-time solvers for systems of generalised transport equations. 
+The solvers belong to the Multidimensional Positive Definite Advection Transport Algorithm 
+  (MPDATA) family of numerical schemes.
+As of July 2014, libmpdata++ is in active development with a beta release planned for ca. 2015.
+
+## CODE
+
+The code is available for download from [a github repository][git-libmpdata]. 
+
+It is released under the terms of [GNU GPL v3][www-gpl]. 
+
+Copyright: University of Warsaw.
+
+## DEPENDENCIES
+
+The library is built upon [Blitz++][www-blitz], [Boost][www-boost] and [HDF5][www-hdf5]. 
+It requires a C++11 compiler.
+
+## DOCUMENTATION
+
+Documentation for libmpdata++ is available as an 
+  [arXiv e-print 1407.1309][axv-libmpdata].
+
+Some first design choices of libmpdata++ have been discussed in 
+  [a paper published in Scientific Programming][doi-mpdata-oop]. 
+
+## SEE ALSO
+
+[libcloudph++][www-libcloudph]
+
+## CREDITS
+
+Libmpdata++ code has been developed by [Sylwester Arabas][www-slayoo], 
+  [Anna Jaruga][www-ania], [Maciej Waruszewski][www-maciek]
+  and [Dorota Jarecka][www-dorota] working in the research group of 
+  [Hanna Pawlowska][www-hania] in co-operation with [Piotr Smolarkiewicz][www-piotr].
+
+Development was funded by [Polish National Science Centre][www-ncn]
+  grants no. 2011/01/N/ST10/0183 (PRELUDIUM) and 2012/06/M/ST10/00434 (HARMONIA).

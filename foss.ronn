@@ -1,0 +1,39 @@
+Cloud-modelling software-development team @ University of Warsaw
+=================================================================
+
+We aim at developing tools for studying aerosol-cloud
+  interactions using **novel cloud/aerosol microphysics** models 
+  and **state-of-the-art numerical schemes**.
+We carry out the software development in compliance with **free 
+  and open source** software engineering practices employing 
+  **modern coding techniques**, aiming at researchers' 
+  **productivity** and **result reproducibility**.
+
+## NEWS
+
+* current: **[OPEN POST-DOC POSITION][www-postdoc]**
+* 2014-07: Ania's poster at the [AMS Cloud Physics conference][news-201407-ams-www] in Boston
+* 2014-07: [arXiv e-print on libmpdata++][axv-libmpdata]
+* 2014-04: [Dorota's talk][news-201404-sea-talk] at the [UCAR Software Engineering conference][news-201404-sea-talk] in Boulder
+* 2014-03: [peer-reviewed paper in Scientific Programming][doi-mpdata-oop]
+* 2013-10: [arXiv w-print on libcloudph++][axv-libcloudph]
+* 2013-01: [Polish National Science Centre][www-ncn] 300 kUSD ''HARMONIA'' [project granted!!!][news-201301-harmonia]
+
+## TEAM
+
+* **[prof. Hanna Pawlowska][www-hania]** (group leader)
+* [Sylwester Arabas][www-slayoo] (postdoc)
+* [Anna Jaruga][www-ania] (PhD student)
+* [Maciej Waruszewski][www-maciek] (PhD student)
+* co-operation:
+  * [prof. Piotr Smolarkiewicz @ ECMWF][www-piotr]
+  * [prof. Wojciech Grabowski @ NCAR][www-wojtek]
+  * [Dorota Jarecka @ NCAR][www-dorota]
+
+## PROJECTS (WIP!)
+
+* [libmpdata++][www-libmpdata]
+* [libcloudph++][www-libcloudph]
+* software built upon libmpdata++ and libcloudph++:
+  * icicle (2D kinematic cloud model)
+  * icicles (3D LES-type cloud model)
