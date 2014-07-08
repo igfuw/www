@@ -1,11 +1,11 @@
-Cloud/aerosol-modelling software team @ University of Warsaw
-============================================================
+Cloud-aerosol modelling team @ University of Warsaw
+===================================================
 
 Our team is a part of Atmospheric Physics Division at the
   [Faculty of Physics][www-fuw], [University of Warsaw][www-uw].
-Our key ongoing enddeavour is a [Polish National Science Centre][www-ncn]
-  funded project entitled **"Aerosol processing by clouds - development 
-  of a multifaceted object-oriented numerical simulation framework"**. 
+Our key ongoing endeavour is a [Polish National Science Centre][www-ncn]
+  funded project entitled **["Aerosol processing by clouds - development 
+  of a multifaceted object-oriented numerical simulation framework"][news-201301-harmonia]**. 
 The project is carried out together with collaborators from 
   [NCAR-MMM][www-ncar-mmm] and [ECMWF][www-ecmwf].
 
@@ -34,15 +34,51 @@ We carry out the software development in compliance with **free
 * [Sylwester Arabas][www-slayoo] (postdoc)
 * [Anna Jaruga][www-ania] (PhD student)
 * [Maciej Waruszewski][www-maciek] (PhD student)
-* co-operation:
+* collaborators:
   * [prof. Piotr Smolarkiewicz @ ECMWF][www-piotr]
   * [prof. Wojciech Grabowski @ NCAR][www-wojtek]
   * [Dorota Jarecka @ NCAR][www-dorota]
+* alumni:
+  * Joanna Slawinska (@NYU Abu Dhabi)
+  * [Piotr Rasinski][www-piotrek] (@sea - sailing)
 
-## PROJECTS (WORK IN PROGRESS!)
+## CURRENT PROJECTS
 
 * [libmpdata++][www-libmpdata]
 * [libcloudph++][www-libcloudph]
 * software built upon libmpdata++ and libcloudph++:
   * icicle (2D kinematic cloud model)
   * icicles (3D LES-type cloud model)
+
+## PAPER DRAFTS
+  * [Jaruga, Arabas, Jarecka, Pawlowska, Smolarkiewicz, Waruszewski, 2014][axv-libmpdata], arXiv:1407.1309   
+    libmpdata++ 0.1: a library of parallel MPDATA solvers for systems of generalised transport equations
+  * [Arabas, Jaruga, Pawlowska & Grabowski, 2013][axv-libcloudph], arXiv:1310.1905   
+    libcloudph++ 0.1: single-moment bulk, double-moment bulk, and~particle-based warm-rain microphysics library in C++
+
+## PAPERS
+
+  * [Arabas, Jarecka, Jaruga & Fijalkowski, 2014][doi-mpdata-oop], Sci. Prog., 22   
+    Formula translation in Blitz++, NumPy and modern Fortran: A case study of the language choice tradeoffs
+  * [Jarecka, Pawlowska, Grabowski, Wyszogrodzki, 2013][doi-jarecka-2013-acp], Atmos. Chem. Phys., 13   
+    Modeling microphysical effects of entrainment in clouds observed during EUCAARI-IMPACT field campaign
+  * [Arabas & Shima, 2013][doi-arabas-2013], J. Atmos. Sci., 70   
+    Large-Eddy Simulations of Trade Wind Cumuli Using Particle-Based Microphysics with Monte Carlo Coalescence
+  * [Jarecka, Grabowski, Morrison & Pawlowska, 2013][doi-jarecka-2013-jas], J. Atmos. Sci., 70    
+    Homogeneity of the Subgrid-Scale Turbulent Mixing in Large-Eddy Simulation of Shallow Convection
+  * [Slawinska, Grabowski, Pawlowska & Morrison, 2012][doi-slawinska-2012], J. Atmos. Sci, 69   
+    Droplet Activation and Mixing in Large-Eddy Simulation of a Shallow Cumulus Field
+  * [Arabas & Pawlowska, 2011][doi-arabas-2011], Geosci. Model. Dev., 4   
+    Adaptive method of lines for multi-component aerosol condensational growth and CCN activation
+  * [Rasinski, Pawlowska & Grabowski, 2011][doi-rasinski-2011], Atmos. Res., 102   
+    Observations and kinematic modeling of drizzling marine stratocumulus
+  * [Grabowski, Slawinska, Pawlowska, & Wyszogrodzki][doi-grabowski-2011], Acta Geophys., 59   
+    Macroscopic Impacts of Cloud and Precipitation Processes in Shallow Convection
+  * [Arabas, Pawlowska & Grabowski, 2009][doi-arabas-2009], Geophys. Res. Lett, 36   
+    Effective radius and droplet spectral width from in-situ aircraft observations in trade-wind cumuli during RICO
+  * [Jarecka, Grabowski & Pawlowska, 2009][doi-jarecka-2009], J. Atmos. Sci., 66   
+    Modeling of Subgrid-Scale Mixing in Large-Eddy Simulation of Shallow Convection
+  * [Slawinska, Grabowski, Pawlowska & Wyszogrodzki, 2008][doi-slawinska-2008], J. Climate, 21   
+    Optical Properties of Shallow Convective Clouds Diagnosed from a Bulk-Microphysics Large-Eddy Simulation
+  * [Pawlowska, Grabowski & Brenguier, 2006][doi-pawlowska-2006], Geophys. Res. Lett, 33   
+    Observations of the width of cloud droplet spectra in stratocumulus
