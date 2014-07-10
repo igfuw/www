@@ -72,7 +72,7 @@ We carry out the software development in compliance with **free
     Adaptive method of lines for multi-component aerosol condensational growth and CCN activation
   * [Rasinski, Pawlowska & Grabowski, 2011][doi-rasinski-2011], Atmos. Res., 102   
     Observations and kinematic modeling of drizzling marine stratocumulus
-  * [Grabowski, Slawinska, Pawlowska, & Wyszogrodzki][doi-grabowski-2011], Acta Geophys., 59   
+  * [Grabowski, Slawinska, Pawlowska, & Wyszogrodzki, 2011][doi-grabowski-2011], Acta Geophys., 59   
     Macroscopic Impacts of Cloud and Precipitation Processes in Shallow Convection
   * [Arabas, Pawlowska & Grabowski, 2009][doi-arabas-2009], Geophys. Res. Lett, 36   
     Effective radius and droplet spectral width from in-situ aircraft observations in trade-wind cumuli during RICO
