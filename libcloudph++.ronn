@@ -9,6 +9,14 @@ As of April 2014 it is in active development with a beta release planned for ca.
 Version 0.1 of the library covers three warm-rain schemes: the single- 
 and double-moment bulk schemes, and the particle-based scheme with Monte-Carlo coalescence.
 
+## EXAMPLE SIMULATION
+
+![animation][anim_rf]
+
+A 2D prescribed-flow simulation of a drizzling stratocumuls cloud using the
+particle-based Monte-Carlo scheme from libcloudph++. Particle collisions
+enabled after a two-hour spin-up period, total time 2.5 hours.
+
 ## CODE
 
 The code is available for download from [a github repository][git-libcloudph]. 
