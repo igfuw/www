@@ -47,6 +47,7 @@ axv-libcloudph          http://arxiv.org/abs/1310.1905
 news-201404-sea-talk    https://sea.ucar.edu/sites/default/files/talk_web.pdf
 news-201404-sea-www     https://sea.ucar.edu/conference/2014
 
+news-201407-ams-pstr    http://www.igf.fuw.edu.pl/~ajaruga/posters/2014_AMS.pdf
 news-201407-ams-www     https://www.ametsoc.org/meet/fainst/201414cloudphy.html
 
 news-201301-harmonia    http://www.igf.fuw.edu.pl/zfa/index.php?Itemid=88&option=com_news&func=view&news=10000258&lang=en
