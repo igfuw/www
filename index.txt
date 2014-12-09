@@ -53,3 +53,4 @@ news-201407-ams-www     https://www.ametsoc.org/meet/fainst/201414cloudphy.html
 news-201301-harmonia    http://www.igf.fuw.edu.pl/zfa/index.php?Itemid=88&option=com_news&func=view&news=10000258&lang=en
 
 anim_rf                 http://www.igf.fuw.edu.pl/~slayoo/temp/20140717/ef.gif
+anim_bombel             http://www.igf.fuw.edu.pl/~ajaruga/bombel/anim_bombel.gif
