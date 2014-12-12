@@ -21,6 +21,7 @@ We carry out the software development in compliance with **free
 ## NEWS
 
 * current: **[OPEN POST-DOC POSITION][www-postdoc]**
+* 2014-09: [Sylwester's talk][news-201409-ncar-talk] at the [NCAR MMM seminar][news-201409-ncar-www] in Boulder
 * 2014-07: [Ania's poster][news-201407-ams-pstr] at the [AMS Cloud Physics conf.][news-201407-ams-www] in Boston
 * 2014-07: [arXiv e-print on libmpdata++][axv-libmpdata]
 * 2014-04: [Dorota's talk][news-201404-sea-talk] at the [UCAR Software Engineering conf.][news-201404-sea-talk] in Boulder
@@ -34,6 +35,7 @@ We carry out the software development in compliance with **free
 * [Sylwester Arabas][www-slayoo] (postdoc)
 * [Anna Jaruga][www-ania] (PhD student)
 * [Maciej Waruszewski][www-maciek] (PhD student)
+* Anna Zimniak (MSc student)
 * collaborators:
   * [prof. Piotr Smolarkiewicz @ ECMWF][www-piotr]
   * [prof. Wojciech Grabowski @ NCAR][www-wojtek]
@@ -47,6 +49,7 @@ We carry out the software development in compliance with **free
 * [libmpdata++][www-libmpdata]
 * [libcloudph++][www-libcloudph]
 * software built upon libmpdata++ and libcloudph++:
+  * drops.py (0D parcel model using the Python bindings for libcloudph++)
   * icicle (2D kinematic cloud model)
   * icicles (3D LES-type cloud model)
 

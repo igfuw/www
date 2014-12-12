@@ -8,9 +8,9 @@ www-ncn                 http://ncn.gov.pl/?language=en
 www-ncar-mmm            http://www.mmm.ucar.edu/
 www-ecmwf               http://www.ecmwf.int/
 www-fuw                 http://www.fuw.edu.pl/
-www-uw                  http://www.uw.edu.pl/
+www-uw                  http://en.uw.edu.pl/
 
-www-postdoc             http://www.igf.fuw.edu.pl/igf/index.php?option=com_news&Itemid=55&func=view&news=10000303&lang=en
+www-postdoc             http://www.lists.reading.ac.uk/archives/met-jobs/2014-07/msg00020.html
 
 www-group               http://foss.igf.fuw.edu.pl/
 www-hania               http://www.igf.fuw.edu.pl/igf/index.php?option=com_employees&Itemid=98&lang=en&func=view&employee=38
@@ -44,12 +44,16 @@ doi-arabas-2009         http://10.1029/2009GL038257
 axv-libmpdata           http://arxiv.org/abs/1407.1309
 axv-libcloudph          http://arxiv.org/abs/1310.1905
 
+news-201301-harmonia    http://www.igf.fuw.edu.pl/zfa/index.php?Itemid=88&option=com_news&func=view&news=10000258&lang=en
+
 news-201404-sea-talk    https://sea.ucar.edu/sites/default/files/talk_web.pdf
 news-201404-sea-www     https://sea.ucar.edu/conference/2014
 
 news-201407-ams-pstr    http://www.igf.fuw.edu.pl/~ajaruga/posters/2014_AMS.pdf
 news-201407-ams-www     https://www.ametsoc.org/meet/fainst/201414cloudphy.html
 
-news-201301-harmonia    http://www.igf.fuw.edu.pl/zfa/index.php?Itemid=88&option=com_news&func=view&news=10000258&lang=en
+news-201409-ncar-talk   http://www.igf.fuw.edu.pl/~slayoo/talk-20140904-ncar.pdf
+news-201409-ncar-www    http://www2.ucar.edu/for-staff/daily/calendar/2014-09-04/introducing-libmpdata-and-libcloudph-reusable-software
+
 
 anim_rf                 http://www.igf.fuw.edu.pl/~slayoo/temp/20140717/ef.gif
