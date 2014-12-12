@@ -8,6 +8,15 @@ The solvers belong to the Multidimensional Positive Definite Advection Transport
   (MPDATA) family of numerical schemes.
 As of July 2014, libmpdata++ is in active development with a beta release planned for ca. 2015.
 
+
+## EXAMPLE SIMULATION
+
+![animation][anim_bombel]
+
+Buoyant convectin in a 2D incompressible Boussinesq fluid.
+Initial condition consists of a circular potential temperature anomaly 
+  of 0.5K of radius 250 m, embedded in a neutrally stratified quiescent environment.
+
 ## CODE
 
 The code is available for download from [a github repository][git-libmpdata]. 
