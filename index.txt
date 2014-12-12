@@ -57,3 +57,4 @@ news-201409-ncar-www    http://www2.ucar.edu/for-staff/daily/calendar/2014-09-04
 
 
 anim_rf                 http://www.igf.fuw.edu.pl/~slayoo/temp/20140717/ef.gif
+anim_bombel             http://www.igf.fuw.edu.pl/~ajaruga/bombel/anim_bombel.gif
