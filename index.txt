@@ -9,6 +9,7 @@ www-ncar-mmm            http://www.mmm.ucar.edu/
 www-ecmwf               http://www.ecmwf.int/
 www-fuw                 http://www.fuw.edu.pl/
 www-uw                  http://en.uw.edu.pl/
+www-igf                 http://www.igf.fuw.edu.pl/
 
 www-postdoc             http://www.lists.reading.ac.uk/archives/met-jobs/2014-07/msg00020.html
 
@@ -38,8 +39,10 @@ doi-arabas-2011         http://dx.doi.org/10.5194/gmd-4-15-2011
 doi-arabas-2013         http://dx.doi.org/10.1175/JAS-D-12-0295.1
 doi-rasinski-2011       http://dx.doi.org/10.1016/j.atmosres.2011.06.020
 doi-grabowski-2011      http://dx.doi.org/10.2478/s11600-011-0038-9
-doi-pawlowska-2006      http://10.1029/2006GL026841
-doi-arabas-2009         http://10.1029/2009GL038257
+doi-pawlowska-2006      http://dx.doi.org/10.1029/2006GL026841
+doi-arabas-2009         http://dx.doi.org/10.1029/2009GL038257
+doi-libmpdata-gmdd      http://dx.doi.org/10.5194/gmdd-7-8179-2014
+doi-libcloudph-gmdd     http://dx.doi.org/10.5194/gmdd-7-8275-2014
 
 axv-libmpdata           http://arxiv.org/abs/1407.1309
 axv-libcloudph          http://arxiv.org/abs/1310.1905
@@ -58,3 +61,15 @@ news-201409-ncar-www    http://www2.ucar.edu/for-staff/daily/calendar/2014-09-04
 
 anim_rf                 http://www.igf.fuw.edu.pl/~slayoo/temp/20140717/ef.gif
 anim_bombel             http://www.igf.fuw.edu.pl/~ajaruga/bombel/anim_bombel.gif
+
+www_chopin              http://www.lotnisko-chopina.pl/en/
+www_modlin              http://en.modlinairport.pl/
+www_cent                http://www.cent.uw.edu.pl/en/about/localization
+www_campanile           http://www.campanile.com/fr/hotels/campanile-varsovie-warszawa
+www_tulip               http://www.goldentulipwarsawcentre.com/en
+www_radisson            http://www.radissonblu.com/sobieski-warsaw
+www_ibis                http://www.accorhotels.com/gb/hotel-7125-ibis-warszawa-reduta/
+www_ibis_budget         http://www.accorhotels.com/pl/hotel-7148-ibis-budget-warszawa-reduta/
+www_sound_garden        http://www.soundgardenhotel.pl/
+www_regform             http://goo.gl/forms/N9c678nSZ4
+www_workshop            http://foss.igf.fuw.edu.pl/workshop_2015/

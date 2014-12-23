@@ -1,0 +1,70 @@
+Workshop on Eulerian vs. Lagrangian methods for cloud microphysics
+==================================================================
+
+The [cloud-aerosol modelling team][www-group] at the [Institute of Geophysics][www-igf],
+[Faculty of Physics][www-fuw], [University of Warsaw][www-uw], Poland invites
+to a workshop aimed at bring together researchers working on **modelling
+cloud microphysics**.
+
+The workshop will take place **in Warsaw on April 20-22, 2015** (the week following
+the EGU General Assembly in Vienna).
+
+## TOPICS AND FORMAT
+
+The workshop topics cover formulation, implementation 
+and validation of numerical models of aerosol, cloud and precipitation
+microphysics.
+
+The axis of the workshop is the juxtaposition of the Eulerian 
+(bulk or bin) and the 
+Lagrangian (particle-based) methods for modelling clouds.
+
+The workshop is planned to feature three types of sessions: 
+full-length introductory lectures, short presentations
+as well as discussion panels on topics topics announced prior to the workshop.
+
+## INVITED LECTURERS (ALPH. ORDER)
+
+* Miroslaw Andrejczuk (U. Oxford, UK)
+* Jean-Louis Brenguier (Meteo-France)
+* Wojciech Grabowski (NCAR, US)
+* Dorota Jarecka (NCAR, US)
+* Shin-ichiro Shima (U. Hyogo, Japan)
+* Raymond Shaw (Michigan Tech, US)
+* Piotr Smolarkiewicz (ECMWF, UK)
+* Simon Unterstrasser (DLR, Germany)
+
+## CALL FOR PARTICIPATION
+
+We request participants wishing to attend the workshop 
+to fill in the [registration form][www_regform] **by the end of January 2015**.
+Those willing to present their work are asked to submit a 
+tentative title of a presentation, abstracts will be collted
+by March 2015.
+
+For practical inquiries, please contact 
+Sylwester Arabas (sarabas@igf.fuw.edu.pl).
+
+There is no registration fee.
+
+## VENUE, TRANSPORT & ACCOMMODATION
+
+The workshop will take place at the "Ochota Campus" of the 
+University of Warsaw in the [CeNT][www_cent] building. 
+
+Warsaw is served by two airports: [Chopin][www_chopin] in the centre (code: WAW) 
+and [Modlin][www_modlin] on the outskirts of the city (code: WMI). The latter
+is served by low-cost airlines. Both airports are reachable by public rail transport.
+
+Warsaw has direct train connections to capitals of six of neighbouring countries, there
+are also direct trains to Amsterdam, Budapest, Paris, and Vienna.
+
+There are several hotels within 10-min bus ride from the workshop venue 
+(e.g. [Campanile][www_campanile], [Golden Tulip][www_tulip], [Radisson][www_radisson],
+[Ibis][www_ibis], [Ibis Budget][www_ibis_budget], [Sound Garden][www_sound_garden]).
+
+## FUNDING
+
+The workshop is organised within the framework of a joint 
+U.Warsaw-NCAR-ECMWF project funded by the Poland's National
+Science Centre (decision no. 2012/06/M/ST10/00434).

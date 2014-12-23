@@ -20,7 +20,9 @@ We carry out the software development in compliance with **free
 
 ## NEWS
 
-* current: **[OPEN POST-DOC POSITION][www-postdoc]**
+* 2015-01: **[call for participation in a workshop organised by our team][www_workshop]**
+* 2014-11: [libmpdata++][doi-libmpdata-gmdd] and [libcloudph++][doi-libcloudph-gmdd] papers published in GMDD
+* 2014-10: Maciek's talk at the 4-th EULAG workshop in Mainz
 * 2014-09: [Sylwester's talk][news-201409-ncar-talk] at the [NCAR MMM seminar][news-201409-ncar-www] in Boulder
 * 2014-07: [Ania's poster][news-201407-ams-pstr] at the [AMS Cloud Physics conf.][news-201407-ams-www] in Boston
 * 2014-07: [arXiv e-print on libmpdata++][axv-libmpdata]
