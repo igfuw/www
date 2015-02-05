@@ -34,19 +34,6 @@ as well as discussion panels on topics announced prior to the workshop.
 * Piotr Smolarkiewicz (ECMWF, UK)
 * Simon Unterstrasser (DLR, Germany)
 
-## CALL FOR PARTICIPATION
-
-We request participants wishing to attend the workshop 
-to fill in the [registration form][www_regform] **by the end of January 2015**.
-Those willing to present their work are asked to submit a 
-tentative title of a presentation, abstracts will be collted
-by March 2015.
-
-For practical inquiries, please contact 
-Sylwester Arabas (sarabas@igf.fuw.edu.pl).
-
-There is no registration fee.
-
 ## VENUE, TRANSPORT & ACCOMMODATION
 
 The workshop will take place at the "Ochota Campus" of the 
@@ -62,6 +49,11 @@ are also direct trains to Budapest, Paris, and Vienna.
 There are several hotels within 10-min bus ride from the workshop venue 
 (e.g. [Campanile][www_campanile], [Golden Tulip][www_tulip], [Radisson][www_radisson],
 [Ibis][www_ibis], [Ibis Budget][www_ibis_budget], [Sound Garden][www_sound_garden]).
+Hotels in the city centre are generally within a 30-minute ride from the campus, while
+you will need ca. 45 minutes to get to the old town.
+
+For practical inquiries, please contact 
+Sylwester Arabas (sarabas@igf.fuw.edu.pl).
 
 ## FUNDING
 
