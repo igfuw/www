@@ -35,6 +35,7 @@ We carry out the software development in compliance with **free
 
 * **[prof. Hanna Pawlowska][www-hania]** (group leader)
 * [Sylwester Arabas][www-slayoo] (postdoc)
+* Piotr Dziekan (postdoc)
 * [Anna Jaruga][www-ania] (PhD student)
 * [Maciej Waruszewski][www-maciek] (PhD student)
 * Anna Zimniak (MSc student)
@@ -63,6 +64,8 @@ We carry out the software development in compliance with **free
 
 ## PAPERS
 
+  * [Jarecka, Jaruga & Smolarkiewicz 2015][doi-dorota-jcp-2015], J. Comp. Phys.    
+    A spreading drop of shallow water
   * [Arabas, Jarecka, Jaruga & Fijalkowski, 2014][doi-mpdata-oop], Sci. Prog., 22   
     Formula translation in Blitz++, NumPy and modern Fortran: A case study of the language choice tradeoffs
   * [Jarecka, Pawlowska, Grabowski, Wyszogrodzki, 2013][doi-jarecka-2013-acp], Atmos. Chem. Phys., 13   

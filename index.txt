@@ -10,6 +10,7 @@ www-ecmwf               http://www.ecmwf.int/
 www-fuw                 http://www.fuw.edu.pl/
 www-uw                  http://en.uw.edu.pl/
 www-igf                 http://www.igf.fuw.edu.pl/
+www-wiki-zamekuj        http://en.wikipedia.org/wiki/Ujazd%C3%B3w_Castle
 
 www-postdoc             http://www.lists.reading.ac.uk/archives/met-jobs/2014-07/msg00020.html
 
@@ -29,6 +30,7 @@ www-libmpdata           http://libmpdataxx.igf.fuw.edu.pl/
 git-libmpdata           http://github.com/igfuw/libmpdataxx
 git-libcloudph          http://github.com/igfuw/libcloudphxx
 
+doi-dorota-jcp-2015     http://dx.doi.org/10.1016/j.jcp.2015.02.003
 doi-mpdata-oop          http://dx.doi.org/10.3233/SPR-140379
 doi-slawinska-2012      http://dx.doi.org/10.1175/JAS-D-11-054.1
 doi-slawinska-2008      http://dx.doi.org/10.1175/2007JCLI1820.1

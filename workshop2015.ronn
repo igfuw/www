@@ -23,16 +23,92 @@ The workshop is planned to feature three types of sessions:
 full-length introductory lectures, short presentations
 as well as discussion panels on topics announced prior to the workshop.
 
-## INVITED LECTURERS (ALPH. ORDER)
+## PROGRAMME 
 
-* Miroslaw Andrejczuk (U. Oxford, UK)
-* Jean-Louis Brenguier (Meteo-France)
-* Wojciech Grabowski (NCAR, US)
-* Dorota Jarecka (NCAR, US)
-* Shin-ichiro Shima (U. Hyogo, Japan)
-* Raymond Shaw (Michigan Tech, US)
-* Piotr Smolarkiewicz (ECMWF, UK)
-* Simon Unterstrasser (DLR, Germany)
+* Monday, April 20, 2015
+  * Morning session (will not start before 9)
+    * 10 min. **Hanna Pawlowska** (U. Warsaw, Poland):    
+              _Welcome!_
+    * 10 min. **Sylwester Arabas** (U. Warsaw, Poland):    
+              _Practicalities_
+    * 40 min. **Wojciech Grabowski** (NCAR, USA):    
+              _Cloud microphysics modelling: the state of the art_
+    * 40 min. **Jean-Louis Brenguier** (Meteo-France):    
+              _How observations shall be used to constrain numerical simulations_
+  * Lunch break
+  * Early-afternoon session 
+    * 40 min. **Shin-ichiro Shima** (U. Hyogo, Japan):   
+              _Particle-based and probabilistic methods for warm-rain cloud microphysics_
+    * 20 min. **Ann Kristin Naumann** (MPI-Met, Germany):   
+              _A Lagrangian drop model to study warm rain microphysics_
+    * 20 min. **Fabian Hoffmann** (U. Hannover, Germany):    
+              _Spurious Cloud Edge Supersaturations in Lagrangian Cloud Models_
+    * 20 min. [libcloudph++ team][www-libcloudph] (U. Warsaw, Poland):    
+              _Lagrangian warm-rain microphysics in libcloudph++_
+  * Coffe break
+  * Late-afternoon session
+    * 20 min. **Dorota Jarecka** (U. Warsaw, Poland; NCAR, US):    
+              _Calling Microphysical Schemes from WRF and libcloudph++ using Python_
+    * 20 min. **Vitalii Shpyg** (Ukrainian Hydrometeo. Inst.):   
+              _WRF ARW model in Ukraine: operational weather forecasting and validation of different microphysics parameterizations_   
+    * 20 min. **Adrian Hill** (Met Office, UK):   
+              _How different are aerosol-cloud interactions in different schemes?   
+               Initial results from the GASS KiD-A intercomparison._
+    * 20 min. **Dorota Jarecka** (U. Warsaw, Poland; NCAR, US):   
+              _Lagrangian microphysics with the KiD-A set-up_
+  * Coffe break
+  * Discussion 
+    * 40 min. **Adrian Hill (chair)** (Met Office, UK):    
+              _How to benchmark our schemes?_
+  * Reception at the [Ujazdow Castle][www-wiki-zamekuj] (8 pm)
+
+* Tuesday, April 21, 2015
+  * Morning session
+    * 40 min. **Piotr Smolarkiewicz** (ECMWF, UK):     
+              _Lagrangian/Eulerian equivalence for forward in time differencing for fluids_
+    * 20 min. [libmpdata++ team][www-libmpdata] (U. Warsaw, Poland):   
+              _On the design and cloud-modelling applications of libmpdata++_
+  * Lunch break
+  * Early-afternoon session
+    * 40 min. **Simon Unterstrasser** (DLR, Germany):    
+              _The Lagrangian ice microphysics code LCM within EULAG: basic overview and selected application examples_
+    * 20 min. **Paul Barrett** (Met Office, UK):    
+              _Modelling the turbulence structure of super-cooled altocumulus clouds using EULAG with a view to quantifying the nature and rates of ice nucleation through the immersion freezing process_
+    * 20 min. **Ana Cirisan** (U. Quebec, Canada):    
+              Preliminary results of aerosol-ice microphysics coupling in the Canadian air quality forecast model GEM-MACH
+  * Coffe break
+  * Late-afternoon session
+    * 20 min. **Frederick Chosson** (McGill University, Canada):   
+              _Sedimentation in double moment bulk microphysics scheme: How to make it fast, interactive, and avoid excessive size-sorting_
+    * 20 min. **Volodymyr Khotiaintsev** (U. Kyiv, Ukraine):    
+              _Numerically efficient description of homogeneous mixed cloud microphysics_
+    * 20 min. **Wojciech Grabowski** (NCAR, USA):   
+              _Untangling microphysical impacts on deep convection using microphysical piggybacking_
+  * Coffe break
+  * Discussion 
+    * 40 min. **Alberto de Lozar (chair)** (MPI-Met, Germany):    
+              _Buoyancy - the key link between dynamics and microphysics_
+
+* Wednesday, April 22, 2015
+  * Morning session
+    * 40 min. **Raymond Shaw** (Michigan Tech., USA):   
+              _Particle-turbulence interactions in atmospheric clouds_
+    * 20 min. **Katarzyna Karpinska** (U. of Warsaw, Poland):    
+              _Cloud droplets in small vortices_
+    * 20 min. **Gaetano Sardina** (Stockholm Univ., Sweden):   
+              _Numerical study of droplet growth growth by condensation by means of massive DNS simulations_
+    * 20 min. **Bogdan Rosa** (IMGW/NHMS, Poland):    
+              _Effects of forcing time scale on the simulated turbulent flows and turbulent collision statistics of cloud droplets_
+    * 20 min. **Alberto de Lozar** (MPI-Met, Germany):   
+              _Radiative growth of lagrangian droplets in a DNS of the stratocumulus cloud top_
+  * Coffe break
+  * Discussion 
+    * 40 min. **Jean-Louis Brenguier (chair)** (Meteo-France):    
+              _The physical processes we are missing in cloud models_
+    * 10 min. **Hanna Pawlowska** (U. Warsaw, Poland):   
+              Farewell
+
+The workshop will end by 2 pm.
 
 ## VENUE, TRANSPORT & ACCOMMODATION
 
@@ -44,7 +120,8 @@ and [Modlin][www_modlin] on the outskirts of the city (code: WMI). The latter
 is served by low-cost airlines. Both airports are reachable by public rail transport.
 
 Warsaw has direct train connections to capitals of six of neighbouring countries, there
-are also direct trains to Budapest, Paris, and Vienna.
+are also direct trains to Budapest, Paris, and Vienna. The Warsaw West (Zachodnia) train
+station is located ca. 1.5 km from the campus.
 
 There are several hotels within 10-min bus ride from the workshop venue 
 (e.g. [Campanile][www_campanile], [Golden Tulip][www_tulip], [Radisson][www_radisson],
