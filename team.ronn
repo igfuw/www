@@ -18,20 +18,9 @@ We carry out the software development in compliance with **free
   **modern coding techniques**, aiming at researchers' 
   **productivity** and **result reproducibility**.
 
-## NEWS
-
-* 2015-01: **[call for participation in a workshop organised by our team][www_workshop]**
-* 2014-11: [libmpdata++][doi-libmpdata-gmdd] and [libcloudph++][doi-libcloudph-gmdd] papers published in GMDD
-* 2014-10: Maciek's talk at the 4-th EULAG workshop in Mainz
-* 2014-09: [Sylwester's talk][news-201409-ncar-talk] at the [NCAR MMM seminar][news-201409-ncar-www] in Boulder
-* 2014-07: [Ania's poster][news-201407-ams-pstr] at the [AMS Cloud Physics conf.][news-201407-ams-www] in Boston
-* 2014-07: [arXiv e-print on libmpdata++][axv-libmpdata]
-* 2014-04: [Dorota's talk][news-201404-sea-talk] at the [UCAR Software Engineering conf.][news-201404-sea-talk] in Boulder
-* 2014-03: [peer-reviewed paper in Scientific Programming][doi-mpdata-oop]
-* 2013-10: [arXiv e-print on libcloudph++][axv-libcloudph]
-* 2013-01: [Polish National Science Centre][www-ncn] 300k$ ''HARMONIA'' [project granted!][news-201301-harmonia]
-
 ## TEAM
+
+![team][foto_team]
 
 * **[prof. Hanna Pawlowska][www-hania]** (group leader)
 * [Sylwester Arabas][www-slayoo] (postdoc)
@@ -47,6 +36,15 @@ We carry out the software development in compliance with **free
   * Joanna Slawinska (@NYU Abu Dhabi)
   * [Piotr Rasinski][www-piotrek] (@sea - sailing)
 
+## NEWS
+
+* 2015-04: **[workshop on Eulerian vs. Lagrangian methods for cloud microphysics][www_workshop]**
+* 2015-04: [libmpdata++][doi-libmpdata-gmd] paper published in GMD
+* 2014-10: Maciek's talk at the 4-th EULAG workshop in Mainz
+* 2014-09: [Sylwester's talk][news-201409-ncar-talk] at the [NCAR MMM seminar][news-201409-ncar-www] in Boulder
+* 2014-07: [Ania's poster][news-201407-ams-pstr] at the [AMS Cloud Physics conf.][news-201407-ams-www] in Boston
+* 2014-04: [Dorota's talk][news-201404-sea-talk] at the [UCAR Software Engineering conf.][news-201404-sea-talk] in Boulder
+
 ## CURRENT PROJECTS
 
 * [libmpdata++][www-libmpdata]
@@ -57,13 +55,15 @@ We carry out the software development in compliance with **free
   * icicles (3D LES-type cloud model)
 
 ## PAPER DRAFTS
-  * [Jaruga, Arabas, Jarecka, Pawlowska, Smolarkiewicz, Waruszewski, 2014][axv-libmpdata], arXiv:1407.1309   
-    libmpdata++ 0.1: a library of parallel MPDATA solvers for systems of generalised transport equations
+  * [Jarecka, Arabas, Del Vento, 2015][axv-pylib], arXiv:1504.01161   
+    Python bindings for libcloudph++ 
   * [Arabas, Jaruga, Pawlowska & Grabowski, 2013][axv-libcloudph], arXiv:1310.1905   
     libcloudph++ 0.1: single-moment bulk, double-moment bulk, and~particle-based warm-rain microphysics library in C++
 
 ## PAPERS
 
+  * [Jaruga, Arabas, Jarecka, Pawlowska, Smolarkiewicz, Waruszewski, 2015][doi-libmpdata-gmd], GMD, 8   
+    libmpdata++ 1.0: a library of parallel MPDATA solvers for systems of generalised transport equations
   * [Jarecka, Jaruga & Smolarkiewicz 2015][doi-dorota-jcp-2015], J. Comp. Phys.    
     A spreading drop of shallow water
   * [Arabas, Jarecka, Jaruga & Fijalkowski, 2014][doi-mpdata-oop], Sci. Prog., 22   

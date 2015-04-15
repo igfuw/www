@@ -6,8 +6,10 @@ The [cloud-aerosol modelling team][www-group] at the [Institute of Geophysics][w
 to a workshop aimed at bringing together researchers working on **modelling
 cloud microphysics**.
 
-The workshop will take place **in Warsaw on April 20-22, 2015** (the week following
-the EGU General Assembly in Vienna).
+The workshop will take place **in Warsaw on April 20-22, 2015**,
+in the [CeNT][www_cent] building at the "Ochota Campus" of the University of Warsaw.
+
+![team][foto_cent]
 
 ## TOPICS AND FORMAT
 
@@ -48,11 +50,12 @@ as well as discussion panels on topics announced prior to the workshop.
   * Session IV (15:00)
     * 20 min. **Fabian Hoffmann** (U. Hannover, Germany):    
               _Spurious Cloud Edge Supersaturations in Lagrangian Cloud Models_
-    * 20 min. [libcloudph++ team][www-libcloudph] (U. Warsaw, Poland):    
-              _Lagrangian warm-rain microphysics in libcloudph++_
+    * 20 min. **Sylwester Arabas, Anna Jaruga, Piotr Dziekan** (U. Warsaw, Poland):    
+              _Lagrangian warm-rain microphysics in [libcloudph++][www-libcloudph]_
     * 20 min. **Dorota Jarecka** (U. Warsaw, Poland; NCAR, US):    
               _Calling Microphysical Schemes from WRF and libcloudph++ using Python_
-  * Discussion (17:00)
+  * Coffee break
+  * Discussion (16:30)
     * 40 min. **Jean-Louis Brenguier (chair)** (Meteo-France):    
               _The physical processes we are missing in cloud models_
   * Reception at the [Ujazdow Castle][www-wiki-zamekuj] (20:00 - 23:00)
@@ -61,7 +64,7 @@ as well as discussion panels on topics announced prior to the workshop.
   * Session I (9:30)
     * 40 min. **Raymond Shaw** (Michigan Tech., USA):   
               _Particle-turbulence interactions in atmospheric clouds_
-    * 20 min. **Katarzyna Karpinska** (U. of Warsaw, Poland):    
+    * 20 min. **Katarzyna Karpinska** (U. Warsaw, Poland):    
               _Cloud droplets in small vortices_
   * Coffee break 
   * Session II (11:00)
@@ -75,8 +78,8 @@ as well as discussion panels on topics announced prior to the workshop.
   * Session III (13:30)
     * 40 min. **Piotr Smolarkiewicz** (ECMWF, UK):     
               _Lagrangian/Eulerian equivalence for forward in time differencing for fluids_
-    * 20 min. [libmpdata++ team][www-libmpdata] (U. Warsaw, Poland):   
-              _On the design and cloud-modelling applications of libmpdata++_
+    * 20 min. **Anna Jaruga, Sylwester Arabas, Maciej Waruszewski** (U. Warsaw, Poland):   
+              _On the design and cloud-modelling applications of [libmpdata++][www-libmpdata]_
   * Coffee break
   * Session IV (15:00)
     * 40 min. **Simon Unterstrasser** (DLR, Germany):    
@@ -84,7 +87,7 @@ as well as discussion panels on topics announced prior to the workshop.
     * 20 min. **Volodymyr Khotiaintsev** (U. Kyiv, Ukraine):    
               _Numerically efficient description of homogeneous mixed cloud microphysics_
   * Coffee break
-  * Discussion (17:00)
+  * Discussion (16:30)
     * 40 min. **Alberto de Lozar (chair)** (MPI-Met, Germany):    
               _Buoyancy - the key link between dynamics and microphysics_
 
@@ -103,24 +106,7 @@ as well as discussion panels on topics announced prior to the workshop.
     * 40 min. **Adrian Hill (chair)** (Met Office, UK):    
               _How to benchmark our schemes?_
 
-## VENUE, TRANSPORT & ACCOMMODATION
-
-The workshop will take place at the "Ochota Campus" of the 
-University of Warsaw in the [CeNT][www_cent] building. 
-
-Warsaw is served by two airports: [Chopin][www_chopin] in the centre (code: WAW) 
-and [Modlin][www_modlin] on the outskirts of the city (code: WMI). The latter
-is served by low-cost airlines. Both airports are reachable by public rail transport.
-
-Warsaw has direct train connections to capitals of six of neighbouring countries, there
-are also direct trains to Budapest, Paris, and Vienna. The Warsaw West (Zachodnia) train
-station is located ca. 1.5 km from the campus.
-
-There are several hotels within 10-min bus ride from the workshop venue 
-(e.g. [Campanile][www_campanile], [Golden Tulip][www_tulip], [Radisson][www_radisson],
-[Ibis][www_ibis], [Ibis Budget][www_ibis_budget], [Sound Garden][www_sound_garden]).
-Hotels in the city centre are generally within a 30-minute ride from the campus, while
-you will need ca. 45 minutes to get to the old town.
+## FURTHER INFORMATION 
 
 For practical inquiries, please contact 
 Sylwester Arabas (sarabas@igf.fuw.edu.pl).

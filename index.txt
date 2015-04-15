@@ -20,7 +20,7 @@ www-piotr               http://old.ecmwf.int/staff/piotr_smolarkiewicz/
 www-ania                http://www.igf.fuw.edu.pl/igf/?option=com_employees&Itemid=98&lang=en&func=view&employee=10000012
 www-slayoo              http://www.igf.fuw.edu.pl/~slayoo/
 www-maciek              http://www.igf.fuw.edu.pl/igf/?option=com_employees&Itemid=98&lang=en&func=view&employee=10000026
-www-dorota              http://www.igf.fuw.edu.pl/igf/?option=com_employees&Itemid=98&lang=en&func=view&employee=74
+www-dorota              http://us.linkedin.com/in/djarecka
 www-wojtek              http://www2.mmm.ucar.edu/people/grabowski/
 www-piotrek             http://www.linkedin.com/pub/piotr-rasinski/29/43/964
 
@@ -45,7 +45,9 @@ doi-pawlowska-2006      http://dx.doi.org/10.1029/2006GL026841
 doi-arabas-2009         http://dx.doi.org/10.1029/2009GL038257
 doi-libmpdata-gmdd      http://dx.doi.org/10.5194/gmdd-7-8179-2014
 doi-libcloudph-gmdd     http://dx.doi.org/10.5194/gmdd-7-8275-2014
-
+doi-libmpdata-gmd       http://dx.doi.org/10.5194/gmd-8-1005-2015
+ 
+axv-pylib               http://arxiv.org/abs/1504.01161
 axv-libmpdata           http://arxiv.org/abs/1407.1309
 axv-libcloudph          http://arxiv.org/abs/1310.1905
 
@@ -63,6 +65,8 @@ news-201409-ncar-www    http://www2.ucar.edu/for-staff/daily/calendar/2014-09-04
 
 anim_rf                 http://www.igf.fuw.edu.pl/~slayoo/temp/20140717/ef.gif
 anim_bombel             http://www.igf.fuw.edu.pl/~ajaruga/bombel/anim_bombel.gif
+foto_team               http://foss.igf.fuw.edu.pl/team.jpg
+foto_cent               http://foss.igf.fuw.edu.pl/cent.jpg
 
 www_chopin              http://www.lotnisko-chopina.pl/en/
 www_modlin              http://en.modlinairport.pl/
