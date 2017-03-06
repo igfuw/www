@@ -4,10 +4,11 @@ libcloudph++
 ## SYNOPSIS
 
 C++ library of algorithms for representing cloud microphysics in numerical models. 
-As of April 2014 it is in active development with a beta release planned for ca. 2015.
+A 1.0 version was released in June 2015 and the library is still in active development.
 
-Version 0.1 of the library covers three warm-rain schemes: the single- 
-and double-moment bulk schemes, and the particle-based scheme with Monte-Carlo coalescence.
+Currently, the library covers three warm-rain schemes: the single- 
+and double-moment bulk schemes, and the particle-based scheme with Monte-Carlo coalescence
+and aqueous phase chemistry.
 
 ## EXAMPLE SIMULATION
 
@@ -33,8 +34,8 @@ It requires a C++11 compiler and will benefit from availability of CUDA
 
 ## DOCUMENTATION
 
-Documentation for libcloudph++ is available as an 
-  [arXiv e-print 1310.1905][axv-libcloudph].
+Documentation for libcloudph++ 1.0 was published as 
+  [a research paper in Geoscientific Model Development][doi-libcloudphxx-gmd].
 
 ## SEE ALSO
 
@@ -42,9 +43,8 @@ Documentation for libcloudph++ is available as an
 
 ## CREDITS
 
-Libmpdata++ code has been developed by [Sylwester Arabas][www-slayoo] and
-  [Anna Jaruga][www-ania] working in the [research group][www-group] of 
-  [Hanna Pawlowska][www-hania] in co-operation with [Wojciech Grabowski][www-wojtek].
-
+For a list of developers see the [CREDITS][www-libcloud-credits] file in libcloudph++ repository.
+  
 Development was funded by [Polish National Science Centre][www-ncn]
-  grants no. 2011/01/N/ST10/0183 (PRELUDIUM) and 2012/06/M/ST10/00434 (HARMONIA).
+  grants no. 2011/01/N/ST10/0183 (PRELUDIUM), 2012/06/M/ST10/00434 (HARMONIA)
+  and 2014/15/N/ST10/05143 (PRELUDIUM).
