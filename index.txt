@@ -14,18 +14,18 @@ www-wiki-zamekuj        http://en.wikipedia.org/wiki/Ujazd%C3%B3w_Castle
 
 www-postdoc             http://www.lists.reading.ac.uk/archives/met-jobs/2014-07/msg00020.html
 
-www-group               http://foss.igf.fuw.edu.pl/
-www-hania               http://www.igf.fuw.edu.pl/igf/index.php?option=com_employees&Itemid=98&lang=en&func=view&employee=38
+www-group               https://www.igf.fuw.edu.pl/en/projects/research-groups/9/
+www-hania               https://www.igf.fuw.edu.pl/en/users/5/
 www-piotr               http://old.ecmwf.int/staff/piotr_smolarkiewicz/
 www-ania                http://www.igf.fuw.edu.pl/igf/?option=com_employees&Itemid=98&lang=en&func=view&employee=10000012
 www-slayoo              http://www.igf.fuw.edu.pl/~slayoo/
-www-maciek              http://www.igf.fuw.edu.pl/igf/?option=com_employees&Itemid=98&lang=en&func=view&employee=10000026
+www-maciek              https://www.igf.fuw.edu.pl/en/users/67/ 
 www-dorota              http://us.linkedin.com/in/djarecka
 www-wojtek              http://www2.mmm.ucar.edu/people/grabowski/
 www-piotrek             http://www.linkedin.com/pub/piotr-rasinski/29/43/964
 
-www-libcloudph          http://libcloudphxx.igf.fuw.edu.pl/
-www-libmpdata           http://libmpdataxx.igf.fuw.edu.pl/
+www-libmpdata           http://github.com/igfuw/libmpdataxx
+www-libcloudph          http://github.com/igfuw/libcloudphxx
 
 git-libmpdata           http://github.com/igfuw/libmpdataxx
 git-libcloudph          http://github.com/igfuw/libcloudphxx
